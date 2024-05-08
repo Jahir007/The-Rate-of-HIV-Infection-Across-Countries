@@ -27,7 +27,7 @@ The data used in this project is sourced from reputable sources such as the Worl
 
 ## License
 
-This project and the accompanying Tableau workbook are made available under the [MIT License](LICENSE). You are free to use, modify, and distribute the contents of this repository for both commercial and non-commercial purposes, provided you give appropriate credit to the original sources.
+This project and the accompanying Tableau workbook are made available Open. You are free to use, modify, and distribute the contents of this repository for both commercial and non-commercial purposes, provided you give appropriate credit to the original sources.
 
 ## Feedback and Contributions
 
